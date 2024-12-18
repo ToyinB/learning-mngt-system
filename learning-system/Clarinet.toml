@@ -1,0 +1,11 @@
+[project]
+name = "learning-system"
+authors = []
+description = ""
+telemetry = true
+requirements = []
+analysis = ["check_checker"]
+costs_version = 2
+[contracts.learning]
+path = "contracts/learning.clar"
+depends_on = []
